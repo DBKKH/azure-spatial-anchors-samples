@@ -516,8 +516,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bf96be6a9a0f704e99d522c8166e9ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpatialAnchorsAccountId: 
-  SpatialAnchorsAccountKey: 
+  SpatialAnchorsAccountId: 94d36e8b-cb44-4ccd-a4e4-9e10f379e810
+  SpatialAnchorsAccountKey: NPBcPuq6JpearOR4Tf7QBeHPmlu7VRozwcJ0RLfsycs=
 --- !u!4 &294771743
 Transform:
   m_ObjectHideFlags: 0
@@ -546,7 +546,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AnchoredObjectPrefab: {fileID: 1147623660883556, guid: e593bfccf03b6444da88c7591f906ba8,
     type: 3}
-  BaseSharingUrl: 
+  BaseSharingUrl: https://anchorsharingservice20190307021743.azurewebsites.net/index.html
 --- !u!1 &339971469
 GameObject:
   m_ObjectHideFlags: 0

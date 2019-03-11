@@ -324,8 +324,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bf96be6a9a0f704e99d522c8166e9ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpatialAnchorsAccountId: 
-  SpatialAnchorsAccountKey: 
+  SpatialAnchorsAccountId: 94d36e8b-cb44-4ccd-a4e4-9e10f379e810
+  SpatialAnchorsAccountKey: NPBcPuq6JpearOR4Tf7QBeHPmlu7VRozwcJ0RLfsycs=
 --- !u!1 &339971469
 GameObject:
   m_ObjectHideFlags: 0
@@ -593,7 +593,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1325473752
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -801,7 +801,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1330892717808448, guid: da02f5d9dfcce824b88f56189675924d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 224773470047573600, guid: da02f5d9dfcce824b88f56189675924d,
         type: 3}
